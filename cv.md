@@ -11,7 +11,7 @@
 **Phone number:** *+7 (952) 68 - 56 - 200*
 
 
-##Education
+## Education
 
 ### **Tyumen State University**
 >Mathematical software and administration of information systems: programming and big data analysis technologies
@@ -25,3 +25,9 @@
 *incomplete education*
 
 2020-2022
+
+## Language knowledge
+
+**English** - B2
+
+**Deutsch** - A1
