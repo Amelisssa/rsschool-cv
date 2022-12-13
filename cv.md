@@ -8,11 +8,12 @@
 
 **Telegram:** *@sweetpotato234*
 
-**Phone number:** *+7 (952) 68 - 56 - 200*
+## About me
+Enjoy learning new things, my number one priority at this moment is studying. Main goals for the next couple years: getting bachelor's degree and find new job
 
 ## Skills
 
-* Basic knowledge of C# and C++ (+ OOP principles)
+* Basic knowledge of C# and C++ (+OOP principles)
 
 ## Education
 
