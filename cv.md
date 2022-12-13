@@ -10,6 +10,9 @@
 
 **Phone number:** *+7 (952) 68 - 56 - 200*
 
+## Skills
+
+* Basic knowledge of C# and C++ (+ OOP principles)
 
 ## Education
 
