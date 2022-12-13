@@ -1,6 +1,6 @@
-#Mary Deulina
+# Mary Deulina
 
-##Contact details
+## Contact details
 
 **Rs-school Discord:** *Mary Deulina (@Amelisssa)*
 
@@ -13,7 +13,7 @@
 
 ##Education
 
-###**Tyumen State University**
+### **Tyumen State University**
 >Mathematical software and administration of information systems: programming and big data analysis technologies
 
 *current education*
