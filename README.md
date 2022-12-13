@@ -1,1 +1,1 @@
-gti
+https://amelisssa.github.io/rsschool-cv/cv
