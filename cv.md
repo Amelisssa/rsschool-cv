@@ -3,7 +3,9 @@
 ## Contact details:
 
 Rs-school Discord: *Mary Deulina (@Amelisssa)*
+
 Email: *mariadeulina@mail.ru*
+
 Telegram: *@sweetpotato234*
 
 ## Skills:
@@ -51,5 +53,7 @@ public class Task {
 ## Languages:
 
 Russian - native
+
 English - C2 (Proficient)
+
 Deutsch - A1
