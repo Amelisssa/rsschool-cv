@@ -1,1 +1,100 @@
+body {
+    margin: 0px;
+}
 
+header {
+    background-color: rgb(12, 12, 14);
+    height: 90px;
+    width: 1440px;
+    display: flex;
+    align-items: centers;
+}
+
+.title {
+    position: relative;
+    height: 50px;
+    width: 294px;
+    line-height: 50px;
+    color: white;
+    font-family: 'Forum', regular;
+    font-size: 30px;
+    letter-spacing: 2%;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav {
+    position: relative;
+    width: 584px;
+    height: 50px;
+    padding-left: 454px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    
+   
+}
+
+li {
+    display: inline;
+    color: white;
+    font-family: 'Forum', regular;
+    font-size: 20px;
+    letter-spacing: 0%;
+    line-height: 50px;
+    
+    padding-inline-start: 0px;
+    
+    padding-right: 30px;
+}
+
+.icon_profile {
+    
+}
+
+.Welcome {
+    position: absolute;
+    width: 1440px;
+    height: 600px;
+    background-image: url(https://bogatyr.club/uploads/posts/2023-03/1678115726_bogatyr-club-p-biblioteka-estetika-foni-oboi-85.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    position: absolute;
+    margin: 0px;
+    background: rgb(18,18,21);
+    background: linear-gradient(360deg, rgba(18,18,21,0) 10%, rgba(12,12,14,1) 100%);
+    width: 1440px;
+    height: 300px;
+}
+
+.welcome-bg {
+    background-color: rgb(12, 12, 14);
+    width: 600px;
+    height: 220px;
+    margin-top: 220px;
+    margin-bottom: 160px;
+    overflow: hidden;
+}
+
+.welcome-text {
+    color: white;
+    font-family: 'Forum', regular;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 3px;
+    text-align: center;
+    width: 520px;
+    height: 150px;
+    margin-top: 35px;
+    margin-left: 40px;
+    margin-bottom: 35px;
+}
