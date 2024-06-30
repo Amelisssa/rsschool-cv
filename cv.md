@@ -58,4 +58,4 @@ public class Kata
 
 **English** - proficient
 
-<img src="/rsschool-cv/img/EFtest.png" width="50"/>
+<img src="/rsschool-cv/img/EFtest.png" width="150"/>
